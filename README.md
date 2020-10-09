@@ -2,7 +2,7 @@
 Connects via API to your Cloudflare account and fetches data from one specified zone. 
 For each record in your dns settings this app will create a sensor in Home Assistant which includes basic information about the record. 
 
-![Preview](https://github.com/dolphinxjd/AppdaemonNetcupAPI/blob/master/HomeAssistant.png?raw=true)
+![Preview](https://github.com/dolphinxjd/AppdaemonCloudflareAPI/blob/main/cloudflare.png?raw=true)
 
 The really intresting information require at least Cloudflare Pro, which i dont have. Therefore I didn't implement these, because currently I don't have the possibility to test it. 
 
