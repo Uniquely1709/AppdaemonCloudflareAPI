@@ -1,0 +1,8 @@
+cloudflare:
+  module: cloudflare
+  class: Cloudflare
+  api_token: xxxxxxxxxxx
+  global_token: xxxxxxxxxxx
+  zone: xxxxxxxxxxx
+  email: xxxxxxxxxxx
+  timer: 60
