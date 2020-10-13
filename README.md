@@ -11,3 +11,4 @@ To make this work, you have to replace the api_token, global_token, zone and ema
 The timer defines time beteween each update in minutes. Default value is every hour.
 
 ### "requests" python-package in Appdaemon required!
+## only works with appdaemon 4.0.4 or later !!!
